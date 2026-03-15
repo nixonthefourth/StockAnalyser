@@ -56,7 +56,10 @@ The application supports multiple search methods, selectable from the menu:
 
 The application supports multiple sorting methods, selectable from the menu:
 
-- **Merge Sort (Descending)** — divide and conquer sorting, implemented to order from highest to lowest
+- Merge Sort
+- Quick Sort
+- Partition Sort
+- Insertion Sort
 
 ---
 
